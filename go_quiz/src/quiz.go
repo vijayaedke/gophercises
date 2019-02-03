@@ -74,3 +74,6 @@ func readFile(lines [][]string) []quiz {
 	} //for
 	return q
 } //readFile
+/*
+Run : go run quiz.go --file="../csv/problems.csv" --time=2
+*/
