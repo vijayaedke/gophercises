@@ -1,0 +1,6 @@
+yamlPath := `
+	- path: /avicii
+	  url: https://www.youtube.com/watch?v=96vzFK2wKvg
+	- path: /tujamo
+	  url: https://www.youtube.com/watch?v=ysNbg3FfsMk
+	`
